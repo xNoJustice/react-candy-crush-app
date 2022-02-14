@@ -1,18 +1,17 @@
 {
-  "name": "react-tailwind-boilerplate",
+  "name": "react-candy-crush-app",
   "version": "1.0.0",
   "author": "xNoJustice",
-  "description": "CRA Template for tailwind, prettier and autopublish on GH pages",
-  "repository": "https://github.com/xNoJustice/react-tailwind-boilerplate",
-  "homepage": "https://xnojustice.github.io/react-tailwind-boilerplate",
+  "description": "Candy Crush Game with React & Tailwind CSS",
+  "repository": "https://github.com/xNoJustice/react-candy-crush-app",
+  "homepage": "https://xnojustice.github.io/react-candy-crush-app",
   "keywords": [
     "react",
     "reactjs",
-    "react-boilerplate",
     "tailwindcss",
     "tailwind",
     "tailwind-css",
-    "boilerplate"
+    "candy-crush"
   ],
   "license": "MIT",
   "scripts": {
