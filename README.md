@@ -1,4 +1,4 @@
-<img alt="React Tailwind Boilerplate" src="" />
+<img alt="React Candy Crush" src="https://github.com/xNoJustice/react-candy-crush-app/blob/df3f36ede924d8951f26b9e113c55a302d74691f/candy-crush.gif" />
 
 ## Install & Start
 
